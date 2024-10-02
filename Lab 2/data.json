@@ -1,0 +1,31 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "name": "Lasitha",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "email": "lasitha@gmail.com",
+        "hireDate": "2024-01-15"
+      },
+      {
+        "id": 2,
+        "name": "Mihiran",
+        "position": "Network Engineer",
+        "department": "Engineering",
+        "email": "mihiran@gmail.com",
+        "hireDate": "2024-06-23"
+      },
+      {
+        "id": 3,
+        "name": "Danindu",
+        "position": "Electronics Engineer",
+        "department": "Engineering",
+        "email": "danindu@gmail.com",
+        "hireDate": "2024-04-13"
+      }
+    ],
+    "isActive": true,
+    "lastUpdated": "2024-09-15"
+  }
+  
